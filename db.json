@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Shopping",
+      "day": "July 7 2021 at 5.30PM",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Shopping",
+      "day": "July 7 2021 at 5.30PM",
+      "reminder": false
+    },
+    {
+      "text": "Take Test",
+      "day": "Monday On 10:00 AM",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Set Reminder",
+      "day": "Monday On 10:00 AM",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Hello Günter",
+      "day": "Monday On 10:00 AM",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Ajay Dewangan",
+      "day": "Monday On 10:00 AM",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
